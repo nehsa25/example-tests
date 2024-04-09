@@ -1,10 +1,10 @@
 {
   "name": "@nehsa/example-tests",
-  "version": "1.0.0",
-  "description": "Example Playwright and Python tests",
+  "version": "1.0.1",
+  "description": "Example Playwright tests",
   "main": "index.js",
   "scripts": {
-    "test": "npx playwright test --grep @slow --workers=1"
+    "test": "npx playwright test tests"
   },
   "repository": {
     "type": "git",
