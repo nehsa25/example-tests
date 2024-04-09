@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/nehsa25/example-tests/issues"
   },
-  "homepage": "https://github.com/nehsa25/example-tests#readme"
+  "homepage": "https://github.com/nehsa25/example-tests#readme",
+  "dependencies": {
+    "@nehsa/example-tests": "^1.0.0"
+  }
 }

@@ -1,4 +1,4 @@
-const inmain = require('example-tests');
+const runTests = require('@nehsa/example-tests');
 
-console.log(inmain()); 
+console.log(runTests()); 
 
