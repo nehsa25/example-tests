@@ -1,6 +1,6 @@
 {
   "name": "@nehsa/example-tests",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Example Playwright tests",
   "main": "index.js",
   "scripts": {

@@ -5,7 +5,9 @@
 Executes Playwright test automation against HenryMeds.com
 
 ## Execution
-npm run test
+npm i @nehsa/example-tests<br>
+cd node_modules\@nehsa\example-tests<br>
+npm run test<br>
 
 ## Tests
 
