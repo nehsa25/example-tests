@@ -26,7 +26,7 @@ export class HenryScheduleAppointmentStateUtility {
         "New Hampshire",
         "Texas",
         "Utah",
-        "virginia",
+        "Virginia",
         "Washington",
         // "Other State" this goes to not supported yet page
     ]

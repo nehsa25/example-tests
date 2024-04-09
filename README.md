@@ -1,3 +1,14 @@
-# example-tests
+# HenryMeds Example Tests
 
-NPM package that runs Playwright tests
+## Description
+
+Executes Playwright test automation against HenryMeds.com
+
+## Tests
+
+UI Tests<br>
+Henry Scheduling: &lt;state&gt; can schedule an appointment<br><br>
+
+API Tests<br>
+Henry Scheduling: &lt;stateName&gt; can get appointment times
+Henry Scheduling: cannot get appointment times for date in past
