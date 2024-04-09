@@ -1,0 +1,22 @@
+{
+  "name": "@nehsa/example-tests",
+  "version": "1.0.0",
+  "description": "Example Playwright and Python tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nehsa25/example-tests.git"
+  },
+  "keywords": [
+    "example-tests"
+  ],
+  "author": "Jesse Stone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nehsa25/example-tests/issues"
+  },
+  "homepage": "https://github.com/nehsa25/example-tests#readme"
+}
